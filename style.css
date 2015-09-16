@@ -1,0 +1,96 @@
+#header {
+	background-image: url("header_new.png");
+	background-repeat: repeat-x;
+	background-color:#CCCCCC;
+	height:20%;
+	width:100%;
+	border-style:solid;
+	border-bottom-style:none;
+	border-color:#B8B8B8;
+}
+
+#nav {
+	font-family:Luna;
+	color:white;
+	width: 10%;
+	height:8%;
+	float:right;
+	text-align:center;
+	margin-right:2%;
+	margin-top:4%;
+	text-decoration:bold;
+}
+
+#nav a:link, a:visited {
+	color:white;
+	text-align:center;
+	margin-right:2%;
+	margin-top:5%;
+	margin-bottom:5%;
+	text-decoration: none;
+	font-family:Verdana;
+	font-size:24px;
+}
+
+#materials {
+	background-color:#AD85FF;
+	border-style:solid;
+	border-color:#8A6ACC;
+	margin-left:15%;
+	margin-right:5%;
+	padding-left:5%;
+	padding-right:5%;
+	list-style-type:none;
+	text-align:left;
+	float: left;
+	color:white;
+}
+
+#equipment {
+	background-color:#AD85FF;
+	border-style:solid;
+	border-color:#8A6ACC;
+	margin-left:5%;
+	margin-right:15%;
+	padding-left:5%;
+	padding-right:5%;
+	list-style-type:none;
+	text-align:left;
+	float: right;
+	color:white;
+}
+
+#subheader {
+	font-family:Verdana;
+	text-align:center;
+	border-style:solid;
+	border-color:#B8B8B8;
+	width:100%;
+}
+
+#body {
+	font-family:Verdana;
+	text-align:center;
+	border-style:solid;
+	border-color:#B8B8B8;
+	width:1200px;
+	padding:5%;
+}
+
+#quiz {
+	text-align:left;
+}
+#quiz ul{
+	list-style-type:none;
+}
+
+#footer {
+	background-image: url("header_new.png");
+	background-repeat: repeat-x;
+	background-color:#CCCCCC;
+	font-family:Verdana;
+	text-align:center;
+	border-style:solid;
+	border-color:#B8B8B8;
+	width:100%;
+}
